@@ -31,7 +31,7 @@ export class NavigationService {
     }
 
     this.setupKeyBoardEvents();
-    this.setupMouseEvents();
+    //this.setupMouseEvents();
   }
 
   setupKeyBoardEvents() {
